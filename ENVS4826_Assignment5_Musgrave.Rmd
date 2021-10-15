@@ -26,7 +26,15 @@ Before undertaking any research, members of the research team met with leaders f
 ## Results
 The study found that samples from the water treatment plant and delivery truck for two communities showed no presence of coliforms, while the water treatment plant and truck samples from the third community showed the presence of coliforms. They also found that chlorine levels from tap water samples in all three communities were lower for samples taken from cisterns compared to those of piped water. They found that 55% of cistern samples had the presence of coliforms, while only 20% of piped water samples had coliforms.  
 
-
+```{r, echo = FALSE}
+library(ggplot2)
+data <- read.csv("Water_data.csv")
+View(data)
+ggplot(data, 
+       aes(x = Distribution, y = Coliforms_present)) +
+         geom_bar(stat = "identity") +
+         labs( x = "Water Distribution Type", y = "Total samples with coliforms present (%)")
+```
 
 
 
