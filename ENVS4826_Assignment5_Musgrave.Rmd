@@ -1,6 +1,6 @@
 ---
 title: "Assignment 5"
-author: "Mairi-Jo Musgrave"
+author: "Mairi-Jo Musgrave, A00407737"
 date: "15/10/2021"
 output: html_document
 ---
@@ -9,18 +9,19 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Summary of: "Water delivery system effects on coliform bacteria in tap water in First Nations reserves in Manitoba, Canada"
+## Summary of: 
+Water delivery system effects on coliform bacteria in tap water in First Nations reserves in Manitoba, Canada.
 
-```{r cars}
-summary(cars)
-```
 
-## Including Plots
+## Reference 
+Amarawansha, G. E. A., Zvomuya, F., & Farenhorst, A. (2021). Water delivery system effects on coliform bacteria in tap water in First Nations reserves in Manitoba, Canada. Environmental Monitoring and Assessment, 193(6), 1-16.
 
-You can also embed plots, for example:
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+## Introduction
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+
+
+
+
+
