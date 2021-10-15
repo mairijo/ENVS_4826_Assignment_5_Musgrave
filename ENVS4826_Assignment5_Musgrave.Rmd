@@ -1,0 +1,26 @@
+---
+title: "Assignment 5"
+author: "Mairi-Jo Musgrave"
+date: "15/10/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Summary of: "Water delivery system effects on coliform bacteria in tap water in First Nations reserves in Manitoba, Canada"
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
