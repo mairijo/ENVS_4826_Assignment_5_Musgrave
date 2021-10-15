@@ -35,8 +35,9 @@ ggplot(data,
          geom_bar(stat = "identity") +
          labs( x = "Water Distribution Type", y = "Total samples with coliforms present (%)")
 ```
-
+<center>
 Figure 1: Percentage of water samples from all three communities with presence of coliforms for both cisterns and piped water.
+<center>
 
 ## Conclusion
 The research done in this article shows that water from cisterns are more likely to contain the presence of coliforms than piped water. The authors recommend connecting all homes in these communities to the main water line would be the safest course of action. 
