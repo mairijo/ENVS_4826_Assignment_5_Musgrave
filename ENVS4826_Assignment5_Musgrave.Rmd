@@ -42,6 +42,9 @@ Figure 1: Percentage of water samples from all three communities with presence o
 ## Conclusion
 The research done in this article shows that water from cisterns are more likely to contain the presence of coliforms than piped water. The authors recommend connecting all homes in these communities to the main water line would be the safest course of action. 
 
+## GitHub
+[Click here](https://github.com/mairijo/ENVS_4826_Assignment_5_Musgrave.git) for GitHub repository
+
 
 
 
