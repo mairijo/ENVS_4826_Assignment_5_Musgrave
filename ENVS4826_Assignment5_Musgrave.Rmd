@@ -9,15 +9,16 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Summary of: 
+## Article: 
 Water delivery system effects on coliform bacteria in tap water in First Nations reserves in Manitoba, Canada.
 
 
 ## Reference 
-Amarawansha, G. E. A., Zvomuya, F., & Farenhorst, A. (2021). Water delivery system effects on coliform bacteria in tap water in First Nations reserves in Manitoba, Canada. Environmental Monitoring and Assessment, 193(6), 1-16.
+Amarawansha, G. E. A., Zvomuya, F., & Farenhorst, A. (2021). Water delivery system effects on       coliform bacteria in tap water in First Nations reserves in Manitoba, Canada. Environmental      Monitoring and Assessment, 193(6), 1-16.
 
 
 ## Introduction
+First nations reserves in Canada experience frequent drinking water advisories due to the presence of coliform bacteria. This article focuses on First Nations reserves in Manitoba, mainly because 50% of homes on these reserves do not have piped water from a water treatment plant, but rather have water brought in from a water treatment plant to local cisterns. Previous studies determined that treated water was more likely to have the presence of coliforms after being moved to a cistern than is it had been piped directly from a water treatment plant. This paper looked at three different reserves in Manitoba which used different types of cisterns. The objective of this paper was to determine how cisterns affect coliform levels in drinking water in camparison to piped water.
 
 
 
